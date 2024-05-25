@@ -1,18 +1,16 @@
-### Hi there 👋
+# 👋 Hello! I'm kutcher1945
 
-<!--
-**Kutcher1945/Kutcher1945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack engineer and use many programming languages, love open source.
 
-Here are some ideas to get you started:
+**[:heart: Sponsor me](https://sponsor.kutcher1945.io)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![kutcher1945's github stats](https://github-readme-stats.vercel.app/api?username=kutcher1945&show_icons=true)](https://github.com/kutcher1945/kutcher1945)
 
-![snake gif](https://github.com/kutcher1945/kutcher1945/blob/output/github-contribution-grid-snake.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutcher1945&layout=compact&card_width=445)](https://github.com/kutcher1945/kutcher1945)
+
+## My Projects
+
+[![tortoise-orm](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=tortoise-orm)](https://github.com/tortoise/tortoise-orm)&emsp;[![aerich](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=aerich)](https://github.com/tortoise/aerich)
+
+[![fastapi-admin](https://github-readme-stats.vercel.app/api/pin/?username=fastapi-admin&repo=fastapi-admin)](https://github.com/fastapi-admin/fastapi-admin)
+
