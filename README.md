@@ -10,7 +10,7 @@ I'm a fullstack engineer and use many programming languages, love open source.
 
 ## My Projects
 
-[![Diabetes-Prediction-Web-App](https://github.com/Kutcher1945/Diabetes-Prediction-Web-App)](https://github.com/Kutcher1945/Diabetes-Prediction-Web-App)&emsp;[![Airflow](https://github.com/Kutcher1945/airflow)](https://github.com/Kutcher1945/airflow)
+[![tortoise-orm](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=tortoise-orm)](https://github.com/tortoise/tortoise-orm)&emsp;[![aerich](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=aerich)](https://github.com/tortoise/aerich)
 
 [![fastapi-admin](https://github-readme-stats.vercel.app/api/pin/?username=fastapi-admin&repo=fastapi-admin)](https://github.com/fastapi-admin/fastapi-admin)
 
