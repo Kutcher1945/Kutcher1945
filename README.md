@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kutcher1945](https://github.com/Kutcher1945)
 
-- 📝 I write articles on [https://medium.com/@kutcher1945](https://medium.com/@kutcher1945)
-
 - 📫 Reach me at adilan.akhramovich@gmail.com
 
 #
