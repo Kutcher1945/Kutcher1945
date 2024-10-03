@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansh Shah</h1>
+<h1 align="center">Hi 👋, I'm Adilan AKhramovich</h1>
 
 <h3 align="center">A passionate Computer Geek eager to learn new things.</h3>
 
