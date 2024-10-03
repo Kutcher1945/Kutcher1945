@@ -18,9 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adilan-akhramovich-914132158/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="kutcher1945" height="33" width="35" /></a>
-<a href="https://stackoverflow.com/users/18683687/kutcher1945" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/800px-Stack_Overflow_icon.svg.png" alt="18683687" height="35" width="40" /></a>
-<a href="https://medium.com/@kutcher1945" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@kutcher1945" height="45" width="50" /></a>
-</p>
 
 #
 <h3 align="left">GitHub Profile Trophies:</h3>
