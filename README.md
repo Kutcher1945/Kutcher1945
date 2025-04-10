@@ -51,32 +51,29 @@
 
 ## 🛠️ Languages and Tools
 
+### 🚀 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,vue,html,css,bootstrap,nodejs,express,mysql,mongodb,postman,git,firebase,matlab,php,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,c,html,css,matlab" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
+### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kutcher1945&theme=nightowl&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,django,nodejs,express,bootstrap,vue" />
 </p>
 
+### 🗄️ Databases
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kutcher1945&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
+### 📊 Data Science
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kutcher1945&theme=nightowl" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn" />
 </p>
 
----
-
-## 🗓️ GitHub Activity Graph
-
+### 🧩 Tools
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kutcher1945&theme=tokyo-night&area=true" />
+  <img src="https://skillicons.dev/icons?i=git,postman,androidstudio,vscode" />
 </p>
 
 ---
