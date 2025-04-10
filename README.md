@@ -84,10 +84,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kutcher1945&theme=nightowl" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kutcher1945&layout=compact&theme=nightowl" alt="Top Languages" />
 </p>
 
