@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Adilan Akhramovich</h1>
-<h3 align="center">🚀 A passionate Computer Geek eager to learn new things 🚀</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=200&section=header&text=Hi%20I'm%20Adilan%20Akhramovich%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing effect -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAF&size=25&center=true&vCenter=true&width=600&lines=Passionate+Computer+Geek;Lifelong+Learner+%F0%9F%92%BB;Building+cool+stuff+every+day;Let's+create+something+amazing!+🚀" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kutcher1945&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kutcher1945&style=for-the-badge&color=00FFAF" alt="Profile views" />
 </p>
 
 <img align="right" alt="Coding" width="300" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
@@ -36,17 +43,15 @@
 
 ## 🏆 GitHub Profile Trophies
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kutcher1945&theme=darkhub&row=2&column=4" alt="GitHub Trophies" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kutcher1945&theme=darkhub&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,vue,html,css,bootstrap,nodejs,express,mysql,mongodb,postman,git,firebase,matlab,php,androidstudio" />
 </p>
 
@@ -68,18 +73,54 @@
 
 ---
 
-## 🐍 Contribution Snake (Optional)
+## 🗓️ GitHub Activity Graph
 
-<!-- Activate if you want! -->
-<!-- 
 <p align="center">
-  <img src="https://github.com/kutcher1945/kutcher1945/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kutcher1945&theme=tokyo-night&area=true" />
 </p>
--->
 
 ---
 
-## 🚀 Quote of the Day
+## 🧩 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Project 1: Your Cool Project</h3>
+      <p align="center">
+        <a href="https://github.com/kutcher1945/project-link">
+          <img src="https://via.placeholder.com/300x200.png?text=Project+Screenshot" alt="Project" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/kutcher1945/project-link"><img src="https://img.shields.io/badge/See+More-Click+Here-brightgreen?style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💡 Project 2: Another Idea</h3>
+      <p align="center">
+        <a href="https://github.com/kutcher1945/project-link">
+          <img src="https://via.placeholder.com/300x200.png?text=Project+Screenshot" alt="Project" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/kutcher1945/project-link"><img src="https://img.shields.io/badge/See+More-Click+Here-orange?style=for-the-badge" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/kutcher1945/kutcher1945/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## ✍️ Quote of the Day
 
 <h4 align="center">"Code is like humor. When you have to explain it, it’s bad." — Cory House</h4>
 
@@ -87,4 +128,9 @@
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/kutcher1945">Adilan Akhramovich</a>
+</p>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=150&section=footer"/>
 </p>
