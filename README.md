@@ -68,14 +68,6 @@
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
-  <img src="https://clickhouse.com/docs/ru/img/ch_logo_docs_dark.svg" alt="ClickHouse" width="60" height="60" style="margin: 0 15px;" />
-</p>
-
-### 📊 Data Science
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="60" height="60" style="margin: 0 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="60" style="margin: 0 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60" style="margin: 0 15px;" />
 </p>
 
 ### 🧩 Tools
