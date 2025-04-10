@@ -1,15 +1,19 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=200&section=header&text=Hi%20I'm%20Adilan%20Akhramovich%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!-- Header Banner with auto color -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=200&section=header&text=Hi%20I'm%20Adilan%20Akhramovich%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=200&section=header&text=Hi%20I'm%20Adilan%20Akhramovich%20🚀&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=200&section=header&text=Hi%20I'm%20Adilan%20Akhramovich%20🚀&fontSize=40&animation=fadeIn" />
+</picture>
 
 <!-- Typing effect -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAF&size=25&center=true&vCenter=true&width=600&lines=Passionate+Computer+Geek;Lifelong+Learner+%F0%9F%92%BB;Building+cool+stuff+every+day;Let's+create+something+amazing!+🚀" alt="Typing SVG" />
 </h3>
 
+<!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kutcher1945&style=for-the-badge&color=00FFAF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kutcher1945&style=flat-square&color=00FFAF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kutcher1945?label=Followers&style=flat-square&color=00FFAF" />
 </p>
 
 <img align="right" alt="Coding" width="300" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
@@ -81,12 +85,31 @@
 
 ---
 
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kutcher1945&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kutcher1945&theme=nightowl" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kutcher1945&layout=compact&theme=nightowl" alt="Top Languages" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kutcher1945&theme=tokyo-night&area=true" />
+</p>
+
+---
+
 ## 🧩 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🚀 Fat Prediction AI</h3>
+      <p align="center">AI tool to predict body fat percentage based on data inputs.</p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/fat_prediction">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=fat_prediction&theme=nightowl" alt="Fat Prediction AI" />
@@ -95,6 +118,7 @@
     </td>
     <td width="50%">
       <h3 align="center">🧠 Alzheimer Prediction AI</h3>
+      <p align="center">Early detection of Alzheimer’s disease using AI-powered models.</p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/alzheimer_prediction">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=alzheimer_prediction&theme=nightowl" alt="Alzheimer Prediction AI" />
@@ -105,6 +129,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">🌐 ZhanCare AI (Telemedicine)</h3>
+      <p align="center">AI-powered telemedicine platform to connect doctors and patients.</p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/zhancareai">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=zhancareai&theme=nightowl" alt="ZhanCare AI" />
@@ -113,9 +138,10 @@
     </td>
     <td width="50%">
       <h3 align="center">🩺 Diabetes Prediction App</h3>
+      <p align="center">Web app for predicting diabetes risk based on health data.</p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/Diabetes-Prediction-Web-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=Diabetes-Prediction-Web-App&theme=nightowl" alt="Diabetes Prediction Web App" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=Diabetes-Prediction-Web-App&theme=nightowl" alt="Diabetes Prediction App" />
         </a>
       </p>
     </td>
@@ -123,6 +149,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">🎨 SaaS Landing Page</h3>
+      <p align="center">Modern SaaS product landing page built with clean UI/UX.</p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/sitcenter_saas_landing">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=sitcenter_saas_landing&theme=nightowl" alt="SaaS Landing Page" />
@@ -131,6 +158,15 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🏅 Achievements
+
+- 🥇 Top contributor to open-source AI healthcare tools
+- 🚀 Built 5+ production-level applications
+- 🌍 Collaborating globally on impactful projects
+- 🎯 Passionate about data science & clean code!
 
 ---
 
@@ -157,6 +193,8 @@
 </p>
 
 <!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=150&section=footer"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=150&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=150&section=footer" />
+</picture>
