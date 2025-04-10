@@ -64,14 +64,14 @@
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cube_Logo.svg" alt="ClickHouse" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cube_Logo.svg" alt="ClickHouse" width="45" height="45" style="margin-left: 10px; margin-right: 10px;" />
 </p>
 
 ### 📊 Data Science
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="45" height="45" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="45" height="45" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45" style="margin: 0 10px;" />
 </p>
 
 ### 🧩 Tools
