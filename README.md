@@ -203,7 +203,9 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
 ## 📡 Visitor Map
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kutcher1945.kutcher1945&left_text=Visitor%20Map" alt="Visitor Map" />
+  <a href="https://mapmyvisitors.com/web/1by29" title="Visit tracker">
+    <img src="https://mapmyvisitors.com/map.png?d=oeVi6Tako6f_KQOQTP21weEI73JZH8g2qyoxy108KX4&cl=00FFAF&w=800&h=400" alt="Visitor Map" />
+  </a>
 </p>
 
 ---
