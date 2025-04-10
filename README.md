@@ -63,8 +63,8 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql,clickhouse" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cube_Logo.svg" alt="ClickHouse" width="45" height="45" style="margin-left: 10px; margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
+  <img src="https://clickhouse.com/docs/ru/img/ch_logo_docs_dark.svg" alt="ClickHouse" width="45" height="45" style="margin: 0 10px;" />
 </p>
 
 ### 📊 Data Science
