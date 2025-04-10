@@ -1,3 +1,8 @@
+<!--
+title: Adilan Akhramovich | AI Developer | Open Source Contributor
+description: Welcome to my GitHub profile! AI solutions, open-source apps, and cloud technologies.
+-->
+
 <!-- Header Banner with auto color -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=200&section=header&text=Hi%20I'm%20Adilan%20Akhramovich%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -87,6 +92,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kutcher1945&layout=compact&theme=nightowl" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kutcher1945&theme=nightowl" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 📊 GitHub Activity Graph
@@ -97,13 +106,27 @@
 
 ---
 
+## 🧭 Timeline
+
+- 🚀 **2025**: Building Fat Prediction AI
+- 🧠 **2025**: Developed Alzheimer Prediction Tool
+- 🌍 **2024**: Co-founded ZhanCare AI
+- 🎓 **2023**: Focused on Data Science & AI
+- 💡 **2022**: Started Open Source Contributions
+
+---
+
 ## 🧩 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Fat Prediction AI</h3>
+      <h3 align="center">🚀 Fat Prediction AI 🧩</h3>
       <p align="center">AI tool to predict body fat percentage based on data inputs.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+      </p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/fat_prediction">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=fat_prediction&theme=nightowl" alt="Fat Prediction AI" />
@@ -113,6 +136,10 @@
     <td width="50%">
       <h3 align="center">🧠 Alzheimer Prediction AI</h3>
       <p align="center">Early detection of Alzheimer’s disease using AI-powered models.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      </p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/alzheimer_prediction">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=alzheimer_prediction&theme=nightowl" alt="Alzheimer Prediction AI" />
@@ -125,6 +152,10 @@
       <h3 align="center">🌐 ZhanCare AI (Telemedicine)</h3>
       <p align="center">AI-powered telemedicine platform to connect doctors and patients.</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </p>
+      <p align="center">
         <a href="https://github.com/Kutcher1945/zhancareai">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=zhancareai&theme=nightowl" alt="ZhanCare AI" />
         </a>
@@ -134,19 +165,12 @@
       <h3 align="center">🩺 Diabetes Prediction App</h3>
       <p align="center">Web app for predicting diabetes risk based on health data.</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      </p>
+      <p align="center">
         <a href="https://github.com/Kutcher1945/Diabetes-Prediction-Web-App">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=Diabetes-Prediction-Web-App&theme=nightowl" alt="Diabetes Prediction App" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎨 SaaS Landing Page</h3>
-      <p align="center">Modern SaaS product landing page built with clean UI/UX.</p>
-      <p align="center">
-        <a href="https://github.com/Kutcher1945/sitcenter_saas_landing">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=sitcenter_saas_landing&theme=nightowl" alt="SaaS Landing Page" />
         </a>
       </p>
     </td>
@@ -176,9 +200,27 @@
 
 ---
 
+## 📡 Visitor Map
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Visitor Map" />
+</p>
+
+---
+
 ## ✍️ Quote of the Day
 
 <h4 align="center">"Code is like humor. When you have to explain it, it’s bad." — Cory House</h4>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourname" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
