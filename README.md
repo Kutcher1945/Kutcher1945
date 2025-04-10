@@ -86,25 +86,47 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Project 1: Your Cool Project</h3>
+      <h3 align="center">🚀 Fat Prediction AI</h3>
       <p align="center">
-        <a href="https://github.com/kutcher1945/project-link">
-          <img src="https://via.placeholder.com/300x200.png?text=Project+Screenshot" alt="Project" />
+        <a href="https://github.com/Kutcher1945/fat_prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=fat_prediction&theme=nightowl" alt="Fat Prediction AI" />
         </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/kutcher1945/project-link"><img src="https://img.shields.io/badge/See+More-Click+Here-brightgreen?style=for-the-badge" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💡 Project 2: Another Idea</h3>
+      <h3 align="center">🧠 Alzheimer Prediction AI</h3>
       <p align="center">
-        <a href="https://github.com/kutcher1945/project-link">
-          <img src="https://via.placeholder.com/300x200.png?text=Project+Screenshot" alt="Project" />
+        <a href="https://github.com/Kutcher1945/alzheimer_prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=alzheimer_prediction&theme=nightowl" alt="Alzheimer Prediction AI" />
         </a>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 ZhanCare AI (Telemedicine)</h3>
       <p align="center">
-        <a href="https://github.com/kutcher1945/project-link"><img src="https://img.shields.io/badge/See+More-Click+Here-orange?style=for-the-badge" /></a>
+        <a href="https://github.com/Kutcher1945/zhancareai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=zhancareai&theme=nightowl" alt="ZhanCare AI" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🩺 Diabetes Prediction App</h3>
+      <p align="center">
+        <a href="https://github.com/Kutcher1945/Diabetes-Prediction-Web-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=Diabetes-Prediction-Web-App&theme=nightowl" alt="Diabetes Prediction Web App" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 SaaS Landing Page</h3>
+      <p align="center">
+        <a href="https://github.com/Kutcher1945/sitcenter_saas_landing">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kutcher1945&repo=sitcenter_saas_landing&theme=nightowl" alt="SaaS Landing Page" />
+        </a>
       </p>
     </td>
   </tr>
