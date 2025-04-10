@@ -203,7 +203,7 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
 ## 📡 Visitor Map
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Visitor Map" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kutcher1945.kutcher1945&left_text=Visitor%20Map" alt="Visitor Map" />
 </p>
 
 ---
