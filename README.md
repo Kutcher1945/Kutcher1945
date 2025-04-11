@@ -17,17 +17,17 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
 
 <!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kutcher1945&style=flat-square&color=00FFAF" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kutcher1945?label=Followers&style=flat-square&color=00FFAF" />
+  <img src="https://komarev.com/ghpvc/?username=kutcher1945&style=for-the-badge&color=00FFAF&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/kutcher1945?label=Followers&style=for-the-badge&color=00FFAF" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="300" src="http://octodex.github.com/images/daftpunktocat-guy.gif" style="box-shadow: 0 4px 10px rgba(0, 255, 175, 0.5); border-radius: 8px;" />
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on **exciting open-source projects**
-- 🌱 I’m currently learning **Cloud Technologies & AI**
-- 👯 I’m looking to collaborate on **all types of projects**
+- 🔭 Currently working on **exciting open-source projects**
+- 🌱 Exploring **Cloud Technologies & AI**
+- 👯 Open for collaboration on **all types of projects**
 - 💬 Ask me about **Python, JavaScript, Vue, or anything tech!**
 - 📫 Reach me at **adilan.akhramovich@gmail.com**
 - ⚡ Fun fact: **I love building things that help people 🚀**
@@ -36,14 +36,14 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/adilan-akhramovich-914132158/" target="blank">
+<p align="center">
+  <a href="https://linkedin.com/in/adilan-akhramovich-914132158/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:adilan.akhramovich@gmail.com" target="blank">
+  <a href="mailto:adilan.akhramovich@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://github.com/kutcher1945" target="blank">
+  <a href="https://github.com/kutcher1945" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
@@ -122,10 +122,10 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
   <tr>
     <td width="50%">
       <h3 align="center">🚀 Fat Prediction AI 🧩</h3>
-      <p align="center">AI tool to predict body fat percentage based on data inputs.</p>
+      <p align="center"><strong>Turn data into health insights!</strong> 🧩 Instantly predict body fat percentage with AI-powered analysis.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-00FFAF?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-00FFAF?style=for-the-badge&logo=streamlit&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/fat_prediction">
@@ -135,10 +135,10 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
     </td>
     <td width="50%">
       <h3 align="center">🧠 Alzheimer Prediction AI</h3>
-      <p align="center">Early detection of Alzheimer’s disease using AI-powered models.</p>
+      <p align="center"><strong>Early detection of Alzheimer’s disease</strong> using AI-powered models to assist healthcare professionals.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-00FFAF?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-00FFAF?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/alzheimer_prediction">
@@ -150,10 +150,10 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
   <tr>
     <td width="50%">
       <h3 align="center">🌐 ZhanCare AI (Telemedicine)</h3>
-      <p align="center">AI-powered telemedicine platform to connect doctors and patients.</p>
+      <p align="center"><strong>AI-powered telemedicine platform</strong> to connect doctors and patients for remote consultations.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Django-00FFAF?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-00FFAF?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/zhancareai">
@@ -163,10 +163,10 @@ description: Welcome to my GitHub profile! AI solutions, open-source apps, and c
     </td>
     <td width="50%">
       <h3 align="center">🩺 Diabetes Prediction App</h3>
-      <p align="center">Web app for predicting diabetes risk based on health data.</p>
+      <p align="center"><strong>Predict diabetes risk</strong> based on health data for early interventions and better health decisions.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-00FFAF?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-00FFAF?style=for-the-badge&logo=pandas&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/Kutcher1945/Diabetes-Prediction-Web-App">
